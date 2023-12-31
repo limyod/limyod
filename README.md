@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yodae
-- 🌱 I’m currently studying Computer Science at Oregon State University
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 send me a inquiry at limyod@oregonstate.edu
 
